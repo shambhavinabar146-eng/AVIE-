@@ -1,0 +1,6 @@
+{
+  "name": "AVIE",
+  "description": "We Wander Together. An India-based travel and tourism brand inspiring Indian travellers across domestic and international destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
